@@ -18,6 +18,8 @@ Insights for Stakeholders: Provide actionable insights to manufacturers, investo
 
 
 Methodology:
+
+
 Data Collection: Gather data from various sources including market reports, surveys, government publications, and industry experts.
 
 Segmentation Analysis: Utilize advanced statistical techniques and machine learning algorithms to identify meaningful segments within the data.
@@ -29,6 +31,8 @@ Recommendations: Offer recommendations based on the segmentation analysis to add
 
 
 Repository Structure:
+
+
 data: Contains datasets used for analysis.
 notebooks: Jupyter notebooks detailing the data analysis, segmentation process, and visualization.
 reports: Summaries, presentations, and reports documenting the findings and recommendations.
