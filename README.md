@@ -1,6 +1,7 @@
 EV Car Market Segmentation in India
 
 
+
 Overview:
 
 This project focuses on segmenting the Electric Vehicle (EV) car market in India. As the automotive industry transitions towards sustainable alternatives, understanding the segmentation of the EV market becomes crucial 
@@ -41,3 +42,6 @@ notebooks: Jupyter notebooks detailing the data analysis, segmentation process, 
 reports: Summaries, presentations, and reports documenting the findings and recommendations.
 
 scripts: Supporting scripts for data preprocessing, analysis, and visualization.
+
+
+
