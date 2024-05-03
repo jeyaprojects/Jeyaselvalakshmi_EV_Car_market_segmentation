@@ -41,6 +41,3 @@ notebooks: Jupyter notebooks detailing the data analysis, segmentation process, 
 reports: Summaries, presentations, and reports documenting the findings and recommendations.
 
 scripts: Supporting scripts for data preprocessing, analysis, and visualization.
-
-
-
